@@ -1,0 +1,6 @@
+{
+  "name": "Muallim Studio",
+  "description": "O'qituvchilar uchun sun'iy intellekt dars konstruktori: taqdimot slaydlari, uyga vazifalar, interaktiv pazl va krossvord, pedagogik metodikalar va testlar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
